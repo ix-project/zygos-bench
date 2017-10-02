@@ -1,0 +1,22 @@
+[submodule "ix"]
+	path = ix
+	url = git@github.com:ix-project/ix.git
+[submodule "silo"]
+	path = silo
+	url = git@github.com:ix-project/silo.git
+[submodule "mutilate"]
+	path = mutilate
+	url = git@github.com:ix-project/mutilate.git
+[submodule "servers"]
+	path = servers
+	url = git@github.com:ix-project/servers.git
+[submodule "memcached"]
+	path = memcached
+	url = git@github.com:ix-project/memcached.git
+[submodule "memcached-ix"]
+	path = memcached-ix
+	url = git@github.com:ix-project/memcached.git
+	branch = ix
+[submodule "zygos"]
+	path = zygos
+	url = git@github.com:ix-project/zygos.git
