@@ -6,6 +6,10 @@ This repository contains all the scripts and repositories that were developed an
 > George Prekas, Marios Kogias, Edouard Bugnion
 > 26th ACM Symposium on Operating Systems Principles (SOSP) (2017)
 
+You can view the paper here:
+
+https://infoscience.epfl.ch/record/231395
+
 In order to reproduce the results of the above mentioned paper, you can do the following:
 
 ```
